@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming: exceeding array bounds.  The `bug.ada` file contains code that attempts to access an array element outside its defined range. The `bugSolution.ada` file provides a corrected version that avoids this error. This example highlights the importance of careful array indexing and handling potential exceptions.
